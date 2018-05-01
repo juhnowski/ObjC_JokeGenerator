@@ -15,6 +15,7 @@
 		7E90CD7F2098FF1700FDCFCA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E90CD7E2098FF1700FDCFCA /* main.m */; };
 		7E90CD892098FF1700FDCFCA /* JokeGeneratorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E90CD882098FF1700FDCFCA /* JokeGeneratorTests.m */; };
 		7E90CD942098FF1700FDCFCA /* JokeGeneratorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E90CD932098FF1700FDCFCA /* JokeGeneratorUITests.m */; };
+		7E90CDA22099135600FDCFCA /* JokeList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E90CDA12099135600FDCFCA /* JokeList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		7E90CD8F2098FF1700FDCFCA /* JokeGeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JokeGeneratorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E90CD932098FF1700FDCFCA /* JokeGeneratorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JokeGeneratorUITests.m; sourceTree = "<group>"; };
 		7E90CD952098FF1700FDCFCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E90CDA12099135600FDCFCA /* JokeList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = JokeList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				7E90CD7A2098FF1700FDCFCA /* LaunchScreen.storyboard */,
 				7E90CD7D2098FF1700FDCFCA /* Info.plist */,
 				7E90CD7E2098FF1700FDCFCA /* main.m */,
+				7E90CDA12099135600FDCFCA /* JokeList.plist */,
 			);
 			path = JokeGenerator;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7E90CD7C2098FF1700FDCFCA /* LaunchScreen.storyboard in Resources */,
+				7E90CDA22099135600FDCFCA /* JokeList.plist in Resources */,
 				7E90CD792098FF1700FDCFCA /* Assets.xcassets in Resources */,
 				7E90CD772098FF1600FDCFCA /* Main.storyboard in Resources */,
 			);
